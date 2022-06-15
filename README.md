@@ -1,5 +1,4 @@
 # mqtt-gps
-Script for sending location to server by MQTT protocol.
+<h3>Script for sending location to server by MQTT protocol.</h3>
 
-Install micropyGPS module in before use.
--> https://github.com/inmcm/micropyGPS
+<h4>Install micropyGPS module before use.</h4>
